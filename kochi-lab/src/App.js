@@ -53,7 +53,7 @@ function App() {
         >
           <a-assets>
             <video 
-              src="asset/img/MRT-Putrajaya-Line.jpg"
+              src="kochi-lab/src/img/MRT-Putrajaya-Line.jpg"
               preload="auto" 
               id="vid" 
               response-type="arraybuffer" 
